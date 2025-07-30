@@ -40,17 +40,6 @@ creditcard-fraud-detection/
 </pre>
 
 ---
-
-## 🗂️ Project Structure
-
-creditcard-fraud-detection/
-├── anomaly_detection.ipynb     <- Main notebook  
-├── creditcard.csv              <- Dataset (not pushed, see "Dataset" section above for download instructions)  
-├── README.md                   <- Project overview  
-├── requirements.txt            <- Python dependencies  
-└── .gitignore                  <- Files to ignore
-
----
 ## Steps Performed
 
 ### 1. Data Loading & Exploration
