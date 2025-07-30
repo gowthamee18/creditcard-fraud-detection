@@ -1,0 +1,14 @@
+# Ignore virtual environments
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# macOS system files
+.DS_Store
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+creditcard.csv
