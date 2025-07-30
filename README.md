@@ -66,8 +66,6 @@ This project applies the Isolation Forest algorithm to detect fraudulent transac
 * Class distribution (fraud vs non-fraud)
 * Confusion matrix
 
-*Optional: Visualize the data using PCA/t-SNE for further insights.*
-
 ---
 
 ## What I Learned
