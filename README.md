@@ -26,13 +26,18 @@ This project applies the Isolation Forest algorithm to detect fraudulent transac
 * `scikit-learn`
 
 ---
+<pre>
 ## Project Structure
+
+<code>
 creditcard-fraud-detection/
 ├── anomaly_detection.ipynb     <- Main notebook
 ├── creditcard.csv              <- Dataset (not pushed, mention how to download)
 ├── README.md                   <- Project overview
 ├── requirements.txt            <- Python dependencies
 └── .gitignore                  <- Files to ignore
+</code>
+</pre>
 
 ---
 ## Steps Performed
